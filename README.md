@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Nama18}/count.svg" alt="Nama18 :: Visitor's Count" /></p>
 
-<img src='https://gfycat.com/anguishedshoddycollardlizard' frameborder='0' scrolling='no' allowfullscreen width='640' height='524'></img>
+<img src='https://gfycat.com/poshdearestdunlin' frameborder='0' scrolling='no' allowfullscreen width='640' height='524'></img>
 
