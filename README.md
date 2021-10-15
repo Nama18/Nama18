@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 
 <p align="center">
