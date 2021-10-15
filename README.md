@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://raw.githubusercontent.com/Nama18/FigureBed/master/img/octocat.gif" width="230">
-
-
 <p>
   <a href="https://github.com/Nama18/"><img src="https://github-readme-stats.vercel.app/api?username=Nama18&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
   <a href="https://github.com/Nama18/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama18&count_private=true&theme=algolia&layout=compact" height="160" /></a>
