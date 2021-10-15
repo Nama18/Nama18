@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <p>
   <a href="https://github.com/Nama18/"><img src="https://github-readme-stats.vercel.app/api?username=Nama18&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
   <a href="https://github.com/Nama18/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama18&count_private=true&theme=algolia&layout=compact" height="160" /></a>
+  <img src="https://thumbs.gfycat.com/ClearCorruptAlligatorgar.webp" alt="Synthwave" frameborder='0' scrolling='no' allowfullscreen width='160' height='199'>
 </p>
 
 
