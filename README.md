@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/nathanael1803/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nathanael1803-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:nathanelmario@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nathanelmario@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 
 </p>
 
