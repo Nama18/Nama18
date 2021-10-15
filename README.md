@@ -42,3 +42,8 @@ Here are some ideas to get you started:
 <a href="mailto:nathanelmario@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nathanelmario@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
+
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
