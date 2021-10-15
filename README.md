@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi 👋 I'm Nathanael Mario </h1>
 
 <!--
 **Nama18/Nama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
