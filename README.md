@@ -19,14 +19,9 @@ Here are some ideas to get you started:
 ![Nama18's github stats](https://github-readme-stats.vercel.app/api?username=Nama18&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/Nama18">
 </a>
 <a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=Nama18">
 </a>
 
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
-
----
-
-⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
