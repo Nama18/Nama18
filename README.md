@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Nama18}/count.svg" alt="Nama18 :: Visitor's Count" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/AnguishedShoddyCollardlizard-mobile.gif" alt="Synthwave" height="300" width="500"></p>
+<iframe src='https://gfycat.com/ifr/AnguishedShoddyCollardlizard' frameborder='0' scrolling='no' allowfullscreen width='640' height='524'></iframe><p> <a href="https://gfycat.com/anguishedshoddycollardlizard">via Gfycat</a></p>
