@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/Nama18">
   <img src="https://img.shields.io/github/followers/Nama18">
 </a>
-<a href="https://github.com/Nama18">
-   <img src="https://komarev.com/ghpvc/?username=Nama18">
-</a>
+
+<p>
+  <a href="https://github.com/nekoto-kun/"><img src="https://github-readme-stats.vercel.app/api?username=nekoto-kun&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
+  <a href="https://github.com/nekoto-kun/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekoto-kun&count_private=true&theme=algolia&layout=compact" height="160" /></a>
+</p>
 
 
 
