@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ![Nama18's github stats](https://github-readme-stats.vercel.app/api?username=Nama18&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/iCharlesZ">
+<a href="https://github.com/Nama18">
   <img src="https://img.shields.io/github/followers/Nama18">
 </a>
-<a href="https://github.com/iCharlesZ">
+<a href="https://github.com/Nama18">
    <img src="https://komarev.com/ghpvc/?username=Nama18">
 </a>
 
