@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://thumbs.gfycat.com/FocusedFlawlessKronosaurus.webp" alt="Synthwave" frameborder='0' scrolling='no' allowfullscreen width='160' height='199'>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEydmxwMjY3a3h6OXJncTE2bHFkdnF5bzFnOGY4NTcyYmp1MHBzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hoIFd5c6YIAFv8yedH/giphy.gif" alt="Synthwave" frameborder='0' scrolling='no' allowfullscreen width='160' height='199'>
 </p>
 
 
