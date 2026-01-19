@@ -1,45 +1,18 @@
-<h1> Hi 👋 I'm Nathanael Mario </h1>
-
-<!--
-**Nama18/Nama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align ="center">
-  <a href="https://github.com/Nama18/"><img src="https://github-readme-stats.vercel.app/api?username=Nama18&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
-  &nbsp
-  <a href="https://github.com/Nama18/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama18&count_private=true&theme=algolia&layout=compact"         height="160" /></a>
-</p>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEydmxwMjY3a3h6OXJncTE2bHFkdnF5bzFnOGY4NTcyYmp1MHBzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hoIFd5c6YIAFv8yedH/giphy.gif" alt="Synthwave" frameborder='0' scrolling='no' allowfullscreen width='160' height='199'>
-</p>
+# 💫 About Me:
+👋 About Me<br><br>Hi! I’m a Backend Engineer with a strong focus on building scalable, maintainable APIs and systems. I enjoy working on real-world business problems, improving system design, and continuously learning new backend technologies.<br><br>🔭 I’m currently working on<br><br>Backend systems using NestJS (TypeScript)<br><br>HRIS / Payroll / Overtime / Reimbursement systems<br><br>REST API, Authentication (JWT), RBAC, and multi-tenant architecture<br><br>👯 I’m looking to collaborate on<br><br>Backend-heavy projects (SaaS, internal tools, APIs)<br><br>Open-source projects related to Node.js, NestJS, or Golang<br><br>🤝 I’m looking for help with<br><br>Advanced system design & scalability<br><br>Golang best practices for production systems<br><br>🌱 I’m currently learning<br><br>Golang for backend & microservices<br><br>Docker, distributed systems, and performance optimization<br><br>💬 Ask me about<br><br>NestJS, REST API design, authentication & authorization<br><br>Backend architecture, database design, and clean code<br><br>⚡ Fun fact<br><br>I prefer fixing backend bugs over designing UI 😄
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nathanael Mario) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathanelmario@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=plastic&logo=sentry&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nam18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nam18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nam18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Nam18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
-
-
-<p align="center">
-    <a href="https://www.instagram.com/nathanael1803/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nathanael1803-black?style=flat-square&logo=instagram"></a>
-    <a href="mailto:nathanelmario@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nathanelmario@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/nathanael-mario-2aa3b31aa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathanael%20Mario-blue?style=flat-square&logo=linkedin"></a>
-</p>
-
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Nama18}/count.svg" alt="Nama18 :: Visitor's Count" /></p>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
